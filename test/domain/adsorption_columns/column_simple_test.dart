@@ -43,7 +43,7 @@ void main(){
     print(initialState.fluidPhaseConcs.concs[s1Key]!.values);
     print(newState.fluidPhaseConcs.concs[s1Key]!.values);
     print(initialState.adsorbedPhaseConcs.concs[s1Key]!.values);
-    print(newState.adsorbedPhaseConcs.concs[s1Key]!.values);
+    print(newState.adsorbedPhaseConcs.concs[s1Key]!.values); 
     
   });
 }
